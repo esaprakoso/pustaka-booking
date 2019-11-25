@@ -68,3 +68,9 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+************************
+Informasi Login Aplikasi
+************************
+Email : esa@example.com
+Pass  : 123

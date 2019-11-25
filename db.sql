@@ -82,10 +82,10 @@ CREATE TABLE IF NOT EXISTS `user` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
--- Dumping data for table pustaka.user: ~1 rows (approximately)
+-- Dumping data for table pustaka.user: ~0 rows (approximately)
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
 INSERT INTO `user` (`id`, `nama`, `email`, `image`, `password`, `role_id`, `is_active`, `tanggal_input`) VALUES
-	(1, 'Esa Prakoso H', 'esa@gmail.com', 'pro1574491407.jpg', '123', 1, 1, '2019-11-23 13:43:27');
+	(1, 'Esa Prakoso H', 'esa@example.com', 'pro1574491407.jpg', '123', 1, 1, '2019-11-25 16:11:32');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
